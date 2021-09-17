@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Modificacion practica c 2 GITHUB
+=======
+Modificacion practica c 2 MODIFICACION GITHUB
+>>>>>>> 0261913228eb3ed66796e3d305e81232b30964e3
